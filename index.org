@@ -1,0 +1,25 @@
+#+TITLE: Portfolio
+#+OPTIONS: toc:nil num:nil
+
+* About Me
+  I am a hacker. Lisping is the highest form of "speech".
+* Projects
+** Decimal to Roman Numeral Conversion
+   [[https://github.com/truesilver92/chicken-roman-numeral][chicken-roman-numeral]]
+** My Emacs Config
+   [[https://github.com/truesilver92/emacs-code][emacs-code]]
+** Split Files Into Smaller Pieces
+   [[https://github.com/truesilver92/SplitFile][SplitFile]]
+* Work Experience
+  - BYU OIT
+    I designed and implemented the traffic violation ticket
+    payment/management system (mine may not be the live one anymore, I
+    don't get tickets and haven't checked)
+  - Teaching Assistant for CS345 at BYU
+    CS345 is the operating systems class which involves creation of an
+    operating system.
+-----
+* Contact
+  - [[http://github.com/truesilver92][github]]
+  - [[mailto:joel.d.stoker@gmail.com][joel.d.stoker@gmail.com]]
+
