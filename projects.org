@@ -1,0 +1,20 @@
+#+TITLE: Projects
+#+OPTIONS: toc:nil num:nil html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="portfolio.css" />
+
+
+- [[http:index.html][Home]]
+- [[http:projects.html][Projects]]
+- [[http:experience.html][Work Experience]]
+- [[http:contact.html][Contact Me]]
+
+
+
+* Projects
+** Decimal to Roman Numeral Conversion
+   [[https://github.com/truesilver92/chicken-roman-numeral][chicken-roman-numeral]]
+** My Emacs Config
+   [[https://github.com/truesilver92/emacs-code][emacs-code]]
+** Split Files Into Smaller Pieces
+   [[https://github.com/truesilver92/SplitFile][SplitFile]]
+   

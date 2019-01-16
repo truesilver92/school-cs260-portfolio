@@ -1,11 +1,17 @@
-#+TITLE: Portfolio
+#+TITLE: Contact
 #+OPTIONS: toc:nil num:nil html-style:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="portfolio.css" />
+
+
 
 - [[http:index.html][Home]]
 - [[http:projects.html][Projects]]
 - [[http:experience.html][Work Experience]]
 - [[http:contact.html][Contact Me]]
 
-* About Me
-  I am a hacker. Lisping is the highest form of "speech".
+
+
+* Contact
+  - [[http://github.com/truesilver92][github]]
+  - [[mailto:joel.d.stoker@gmail.com][joel.d.stoker@gmail.com]]
+

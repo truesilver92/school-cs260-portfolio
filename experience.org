@@ -1,0 +1,21 @@
+#+TITLE: Work Experience
+#+OPTIONS: toc:nil num:nil html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="portfolio.css" />
+
+
+
+- [[http:index.html][Home]]
+- [[http:projects.html][Projects]]
+- [[http:experience.html][Work Experience]]
+- [[http:contact.html][Contact Me]]
+
+
+
+* Work Experience
+  - BYU OIT
+    I designed and implemented the traffic violation ticket
+    payment/management system (mine may not be the live one anymore, I
+    don't get tickets and haven't checked)
+  - Teaching Assistant for CS345 at BYU
+    CS345 is the operating systems class which involves creation of an
+    operating system.
